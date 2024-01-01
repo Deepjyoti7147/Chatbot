@@ -1,0 +1,8 @@
+API: AIzaSyBE7TdE-8DsnHiKfBsVnQnjsBtwroYFAm4
+
+Start Venv: Exec in cmd ---->  env\Scripts\activate
+
+
+Reqs:
+Python 3.12.1
+Django 5.0
